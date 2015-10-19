@@ -1,9 +1,9 @@
 
 Package.describe({
-  name: 'ogourment:settings',
+  name: 'valedaemon:settings',
   summary: 'Reliably initialize Meteor.settings.',
   version: '0.1.4',
-  git: 'https://github.com/ogourment/settings.git'
+  git: 'https://github.com/valedaemon/settings.git'
 });
 
 Package.on_use(function (api) {
